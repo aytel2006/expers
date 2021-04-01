@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px; 
+}
+
+html{
+    font-size: 62.5%;
+}
+
+#pal{
+    width:75%;
+    height: 15%;
+    margin:0 auto;
+    border:solid 1px;
+    box-shadow: 10px 10px 5px;
+    font-size:2rem ;
+    text-align: center;
+}
